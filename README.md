@@ -8,5 +8,4 @@
 Yangchoom/Yangchoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->Gmail account sittipongkuksonic@gmail.com and fonenumber 66+820699209
-
-Yangchoom-patch-1
+Sitthiping-patch-1
